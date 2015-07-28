@@ -1,0 +1,9 @@
+{
+  "name": "@dmail/object-assign",
+  "version": "0.0.2",
+  "description": "Object.assign polyfill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmail/object-assign"
+  }
+}
